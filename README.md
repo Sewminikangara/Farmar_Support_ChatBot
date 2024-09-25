@@ -22,17 +22,17 @@ Ensure you have the following dependencies installed:
 - SpeechRecognition  
 - Googletrans  
 
-### Python Packages  
-Install the required Python packages-
+### Python Packages
+1.Install the required Python packages-
 pip install flask flask-socketio speechrecognition googletrans==4.0.0-rc1
 
 
-React Frontend-
+2.React Frontend-
 Navigate to the frontend directory and run:
 npm install  
 
 
-#Usage
+### Usage
 Clone the repository
 git clone https://github.com/your-username/Farmer-Support-ChatBot.git  
 
