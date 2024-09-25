@@ -34,18 +34,18 @@ npm install
 
 
 ### Usage
-Clone the repository
+1.Clone the repository
 git clone
 
 "https://github.com/your-username/Farmer-Support-ChatBot.git "
 
-Navigate to the project directory
+2.Navigate to the project directory
 cd Farmer-Support-ChatBot 
 
-Start the Flask backend
+3.Start the Flask backend
 python chat.py  
 
-Start the React frontend
+4.Start the React frontend
 npm run build  
 npm run dev  
 
