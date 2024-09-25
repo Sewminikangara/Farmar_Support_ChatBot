@@ -34,7 +34,9 @@ npm install
 
 ### Usage
 Clone the repository
-git clone https://github.com/your-username/Farmer-Support-ChatBot.git  
+git clone
+
+"https://github.com/your-username/Farmer-Support-ChatBot.git "
 
 Navigate to the project directory
 cd Farmer-Support-ChatBot 
