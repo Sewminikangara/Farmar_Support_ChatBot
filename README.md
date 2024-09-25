@@ -24,7 +24,8 @@ Ensure you have the following dependencies installed:
 
 ### Python Packages
 1.Install the required Python packages-
-pip install flask flask-socketio speechrecognition googletrans==4.0.0-rc1
+
+"pip install flask flask-socketio speechrecognition googletrans==4.0.0-rc1"
 
 
 2.React Frontend-
